@@ -1,0 +1,27 @@
+1- Encontrará en formato PDF un mockup correspondiente al prototipo en cada uno de los diferentes dispositivos de la siguiente manera:
+
+- Desktop (1920px).pdf : corresponde a la visualización del prototipo para computadores de escritorio ypantallas de alta resolución
+- Mobile (Ipad).pdf : corresponde a la visualización del prototipo en pantallas de 768 pixeles en una disposición horizontal (tomamos como referencia un ipad)
+- Mobile (Iphone 6).pdf : corresponde a la visualización del prototipo en dispositivos moviles (celulares), para este mockup tomamos como referencia un iphone 6
+
+
+2- Encontrará un mockup interactivo en la siguiente dirección:
+
+https://xd.adobe.com/view/ef0ceff0-6db5-478c-5352-9ab83cbfd56d-993d/?fullscreen
+
+podrá navegar entre las diferentes opciones de la aplicación dando click en los botones y enlaces, podrá devolverse o regresar al menú principal 
+dando click en los simbolos sobre fondo negro de la parte inferior (como se hace habitualmente en un celular)
+
+
+
+Grupo:Reciclapp
+
+Integrantes:
+
+Luisa Rojas
+3208568179
+luisa.fero@hotmail.com
+
+Camilo Quiroga
+3044018870
+camilo.quirogam@gmail.com
